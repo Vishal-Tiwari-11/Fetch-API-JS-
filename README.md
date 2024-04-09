@@ -1,1 +1,1 @@
-Fetch API using Async-await
+Fetch API using Async-await and Promises
